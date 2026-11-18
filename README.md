@@ -2,7 +2,7 @@
 
 **Project website:** https://qavonia.com/
 
-This repository contains an independent set of reader-focused resources about evaluating online video experiences, privacy, accessibility, and playback usability. The associated website is [Qavonia](https://qavonia.com/).
+This repository contains an companion collection of reader-focused resources about evaluating online video experiences, privacy, accessibility, and playback usability. The associated website is [Qavonia](https://qavonia.com/).
 
 ## Start here
 
@@ -31,7 +31,7 @@ Content should solve a real reader problem, use clear language, and avoid unsupp
 
 ## Independence and disclosure
 
-This is an independently maintained resource project. A link to Qavonia identifies the associated website; it does not imply third-party endorsement, certification, or partnership. Service-specific privacy, billing, or content claims should always be checked against the relevant provider's own documentation.
+This companion resource project is maintained by the repository owner. A link to Qavonia identifies the associated website; it does not imply third-party endorsement, certification, or partnership. Service-specific privacy, billing, or content claims should always be checked against the relevant provider's own documentation.
 
 ## Contributing
 
