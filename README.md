@@ -1,0 +1,1 @@
+# qavonia-seo-resource
