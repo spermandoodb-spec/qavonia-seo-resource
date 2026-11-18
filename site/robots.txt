@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spermandoodb-spec.github.io/qavonia-seo-resource/sitemap.xml
